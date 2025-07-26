@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jours.be",
+    "description": "",
+    "home_page_url": "https://jours.be",
+    "feed_url": "https://jours.be/feed.json",
+    "user_comment": "",
+    "icon": "https://jours.be/media/website/jours_be_edit-3.png",
+    "author": {
+        "name": "jours.be"
+    },
+    "items": [
+    ]
+}
