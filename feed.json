@@ -16,13 +16,15 @@
             "title": "post 1 ",
             "summary": "test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test&hellip;",
             "content_html": "<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>",
+            "image": "https://jours.be/media/posts/8/mike-meyers-1346291-unsplash-xxxl.jpg",
             "author": {
                 "name": "jours.be"
             },
             "tags": [
+                   "Signification"
             ],
             "date_published": "2025-08-08T09:23:56+02:00",
-            "date_modified": "2025-08-08T09:23:56+02:00"
+            "date_modified": "2025-08-08T09:27:45+02:00"
         }
     ]
 }

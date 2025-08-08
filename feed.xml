@@ -3,7 +3,7 @@
     <title>Jours.be</title>
     <link href="https://jours.be/feed.xml" rel="self" />
     <link href="https://jours.be" />
-    <updated>2025-08-08T09:23:56+02:00</updated>
+    <updated>2025-08-08T09:27:45+02:00</updated>
     <author>
         <name>jours.be</name>
     </author>
@@ -16,15 +16,19 @@
         </author>
         <link href="https://jours.be/post-1.html"/>
         <id>https://jours.be/post-1.html</id>
+        <media:content url="https://jours.be/media/posts/8/mike-meyers-1346291-unsplash-xxxl.jpg" medium="image" />
+            <category term="Signification"/>
 
         <updated>2025-08-08T09:23:56+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jours.be/media/posts/8/mike-meyers-1346291-unsplash-xxxl.jpg" alt="" />
                     test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://jours.be/media/posts/8/mike-meyers-1346291-unsplash-xxxl.jpg" class="type:primaryImage" alt="" /></p>
                 <p>test post 1 </p>
 <p>test post 1 </p>
 <p>test post 1 </p>
