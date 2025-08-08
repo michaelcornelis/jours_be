@@ -10,5 +10,19 @@
         "name": "jours.be"
     },
     "items": [
+        {
+            "id": "https://jours.be/post-1.html",
+            "url": "https://jours.be/post-1.html",
+            "title": "post 1 ",
+            "summary": "test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test post 1 test&hellip;",
+            "content_html": "<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>\n<p>test post 1 </p>",
+            "author": {
+                "name": "jours.be"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-08T09:23:56+02:00",
+            "date_modified": "2025-08-08T09:23:56+02:00"
+        }
     ]
 }
