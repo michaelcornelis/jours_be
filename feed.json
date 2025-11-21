@@ -7,9 +7,54 @@
     "user_comment": "",
     "icon": "https://jours.be/media/website/jours_be_edit-3.png",
     "author": {
-        "name": "jours.be"
+        "name": "Mike"
     },
     "items": [
+        {
+            "id": "https://jours.be/how-to-make-your-cars-look-like-a-million-bucks.html",
+            "url": "https://jours.be/how-to-make-your-cars-look-like-a-million-bucks.html",
+            "title": "How to make your Cars look like a Million Bucks",
+            "image": "https://jours.be/media/posts/17/campbell-boulanger-348386-unsplash-xxxl.jpg",
+            "author": {
+                "name": "Mike"
+            },
+            "tags": [
+                   "Top"
+            ],
+            "date_published": "2025-11-21T18:38:46+01:00",
+            "date_modified": "2025-11-21T18:38:46+01:00"
+        },
+        {
+            "id": "https://jours.be/article-3.html",
+            "url": "https://jours.be/article-3.html",
+            "title": "article 3",
+            "summary": "Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla ",
+            "content_html": "<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>\n<p>Blabla bla </p>",
+            "image": "https://jours.be/media/posts/16/mike-meyers-1346291-unsplash-xxxl.jpg",
+            "author": {
+                "name": "Mike"
+            },
+            "tags": [
+                   "Top"
+            ],
+            "date_published": "2025-11-21T18:36:31+01:00",
+            "date_modified": "2025-11-21T18:36:31+01:00"
+        },
+        {
+            "id": "https://jours.be/voici-un-exemple-darticle-2.html",
+            "url": "https://jours.be/voici-un-exemple-darticle-2.html",
+            "title": "Voici un exemple d&#x27;article 2",
+            "summary": "Et le texte ! ",
+            "content_html": "<p>Et le texte ! </p>",
+            "image": "https://jours.be/media/posts/15/towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg",
+            "author": {
+                "name": "Mike"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-21T18:32:22+01:00",
+            "date_modified": "2025-11-21T18:32:33+01:00"
+        },
         {
             "id": "https://jours.be/voici-un-exemple-darticle.html",
             "url": "https://jours.be/voici-un-exemple-darticle.html",
@@ -18,7 +63,7 @@
             "content_html": "<p>Et le texte ! </p>",
             "image": "https://jours.be/media/posts/14/towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg",
             "author": {
-                "name": "jours.be"
+                "name": "Mike"
             },
             "tags": [
             ],
@@ -33,14 +78,13 @@
             "content_html": "<p>Life which moving bring don't moved land Cattle Over there so greater. Years let beginning thing forth multiply god together green dominion creepeth male created creature created firmament it from. Beast which moving bring don't moved land. Gathered fruit above itself you'll years spirit morning shall. Two subdue Isn't. Give together own. Had. Gathered thing from upon which fourth seas give to don't shall him let night be. Sixth yielding.</p>",
             "image": "https://jours.be/media/posts/9/smile-skates-T4Lwf6o3hjs-unsplash-xxxl.jpg",
             "author": {
-                "name": "jours.be"
+                "name": "Mike"
             },
             "tags": [
-                   "Top",
-                   "Signification"
+                   "Top"
             ],
             "date_published": "2025-08-08T09:35:39+02:00",
-            "date_modified": "2025-08-08T09:42:07+02:00"
+            "date_modified": "2025-11-21T18:33:19+01:00"
         }
     ]
 }

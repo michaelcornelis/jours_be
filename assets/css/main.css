@@ -256,6 +256,12 @@ table {
   text-align: left;
   width: 100%;
 }
+@media all and (max-width: 37.4375em) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
 table th {
   font-variation-settings: "wght" var(--font-weight-bold);
   padding: 0.6666666667rem 1.0666666667rem;
@@ -2474,12 +2480,12 @@ main {
 }
 
 .post__video, .post__iframe {
-  position: relative;
   display: block;
   margin-top: 1.6rem;
   margin-bottom: 2.1333333333rem;
   overflow: hidden;
   padding: 0;
+  position: relative;
   width: 100%;
 }
 .post__video::before, .post__iframe::before {
@@ -2487,7 +2493,13 @@ main {
   content: "";
   padding-top: var(--embed-aspect-ratio);
 }
-.post__video iframe, .post__video video, .post__iframe iframe, .post__iframe video {
+.post__video iframe[height*="%"][width*="%"],
+.post__video video[height*="%"][width*="%"],
+.post__video iframe[height]:not([height*="%"])[width]:not([width*="%"]),
+.post__video video[height]:not([height*="%"])[width]:not([width*="%"]), .post__iframe iframe[height*="%"][width*="%"],
+.post__iframe video[height*="%"][width*="%"],
+.post__iframe iframe[height]:not([height*="%"])[width]:not([width*="%"]),
+.post__iframe video[height]:not([height*="%"])[width]:not([width*="%"]) {
   border: none;
   height: 100%;
   left: 0;
@@ -2495,6 +2507,9 @@ main {
   top: 0;
   bottom: 0;
   width: 100%;
+}
+.post__video:has(iframe:not([height]))::before, .post__video:has(iframe:not([width]))::before, .post__video:has(video:not([height]))::before, .post__video:has(video:not([width]))::before, .post__iframe:has(iframe:not([height]))::before, .post__iframe:has(iframe:not([width]))::before, .post__iframe:has(video:not([height]))::before, .post__iframe:has(video:not([width]))::before {
+  display: none;
 }
 .post__toc ul {
   counter-reset: item;
@@ -3270,31 +3285,4 @@ main {
   opacity: 1;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
-}
-
-.pswp--dark .pswp__bg {
-  background: #000000;
-}
-.pswp--dark .pswp__button,
-.pswp--dark .pswp__button--arrow--left:before,
-.pswp--dark .pswp__button--arrow--right:before {
-  background-image: url(../svg/gallery-icons-light.svg);
-}
-.pswp--light .pswp__bg {
-  background: #FFFFFF;
-}
-.pswp--light .pswp__counter {
-  color: #000000;
-}
-.pswp--light .pswp__caption__center {
-  color: #8D8D94;
-}
-.pswp--light .pswp__button,
-.pswp--light .pswp__button--arrow--left:before,
-.pswp--light .pswp__button--arrow--right:before {
-  background-image: url(../svg/gallery-icons-dark.svg);
-}
-.pswp .pswp__button {
-  -webkit-box-shadow: none;
-          box-shadow: none;
 }

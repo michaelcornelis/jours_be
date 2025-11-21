@@ -3,16 +3,95 @@
     <title>Jours.be</title>
     <link href="https://jours.be/feed.xml" rel="self" />
     <link href="https://jours.be" />
-    <updated>2025-11-21T14:42:10+01:00</updated>
+    <updated>2025-11-21T18:38:46+01:00</updated>
     <author>
-        <name>jours.be</name>
+        <name>Mike</name>
     </author>
     <id>https://jours.be</id>
 
     <entry>
+        <title>How to make your Cars look like a Million Bucks</title>
+        <author>
+            <name>Mike</name>
+        </author>
+        <link href="https://jours.be/how-to-make-your-cars-look-like-a-million-bucks.html"/>
+        <id>https://jours.be/how-to-make-your-cars-look-like-a-million-bucks.html</id>
+        <media:content url="https://jours.be/media/posts/17/campbell-boulanger-348386-unsplash-xxxl.jpg" medium="image" />
+            <category term="Top"/>
+
+        <updated>2025-11-21T18:38:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>article 3</title>
+        <author>
+            <name>Mike</name>
+        </author>
+        <link href="https://jours.be/article-3.html"/>
+        <id>https://jours.be/article-3.html</id>
+        <media:content url="https://jours.be/media/posts/16/mike-meyers-1346291-unsplash-xxxl.jpg" medium="image" />
+            <category term="Top"/>
+
+        <updated>2025-11-21T18:36:31+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://jours.be/media/posts/16/mike-meyers-1346291-unsplash-xxxl.jpg" alt="" />
+                    Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla Blabla bla 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jours.be/media/posts/16/mike-meyers-1346291-unsplash-xxxl.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+<p>Blabla bla </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Voici un exemple d&#x27;article 2</title>
+        <author>
+            <name>Mike</name>
+        </author>
+        <link href="https://jours.be/voici-un-exemple-darticle-2.html"/>
+        <id>https://jours.be/voici-un-exemple-darticle-2.html</id>
+        <media:content url="https://jours.be/media/posts/15/towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg" medium="image" />
+
+        <updated>2025-11-21T18:32:22+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://jours.be/media/posts/15/towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg" alt="" />
+                    Et le texte ! 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jours.be/media/posts/15/towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Et le texte ! </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Voici un exemple d&#x27;article</title>
         <author>
-            <name>jours.be</name>
+            <name>Mike</name>
         </author>
         <link href="https://jours.be/voici-un-exemple-darticle.html"/>
         <id>https://jours.be/voici-un-exemple-darticle.html</id>
@@ -35,13 +114,12 @@
     <entry>
         <title>3 Easy Ways to make Your Life Faster and Faster</title>
         <author>
-            <name>jours.be</name>
+            <name>Mike</name>
         </author>
         <link href="https://jours.be/post2.html"/>
         <id>https://jours.be/post2.html</id>
         <media:content url="https://jours.be/media/posts/9/smile-skates-T4Lwf6o3hjs-unsplash-xxxl.jpg" medium="image" />
             <category term="Top"/>
-            <category term="Signification"/>
 
         <updated>2025-08-08T09:35:39+02:00</updated>
             <summary type="html">
