@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://jours.be/voici-un-exemple-darticle.html",
+            "url": "https://jours.be/voici-un-exemple-darticle.html",
+            "title": "Voici un exemple d&#x27;article",
+            "summary": "Et le texte ! ",
+            "content_html": "<p>Et le texte ! </p>",
+            "image": "https://jours.be/media/posts/14/towfiqu-barbhuiya-bwOAixLG0uc-unsplash.jpg",
+            "author": {
+                "name": "jours.be"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-21T14:39:41+01:00",
+            "date_modified": "2025-11-21T14:42:10+01:00"
+        },
+        {
             "id": "https://jours.be/post2.html",
             "url": "https://jours.be/post2.html",
             "title": "3 Easy Ways to make Your Life Faster and Faster",
@@ -26,23 +41,6 @@
             ],
             "date_published": "2025-08-08T09:35:39+02:00",
             "date_modified": "2025-08-08T09:42:07+02:00"
-        },
-        {
-            "id": "https://jours.be/post-1.html",
-            "url": "https://jours.be/post-1.html",
-            "title": "Warning: These 9 Mistakes Will Destroy Your Skateboard",
-            "summary": "Texte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texte",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jours.be/media/posts/8/mike-meyers-1346291-unsplash-xxxl-2.jpg\" alt=\"\" width=\"2560\" height=\"2560\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://jours.be/media/posts/8/responsive/mike-meyers-1346291-unsplash-xxxl-2-xs.jpg 300w ,https://jours.be/media/posts/8/responsive/mike-meyers-1346291-unsplash-xxxl-2-sm.jpg 480w ,https://jours.be/media/posts/8/responsive/mike-meyers-1346291-unsplash-xxxl-2-md.jpg 768w ,https://jours.be/media/posts/8/responsive/mike-meyers-1346291-unsplash-xxxl-2-xl.jpg 1200w ,https://jours.be/media/posts/8/responsive/mike-meyers-1346291-unsplash-xxxl-2-xxl.jpg 1600w ,https://jours.be/media/posts/8/responsive/mike-meyers-1346291-unsplash-xxxl-2-xxxl.jpg 2560w\"></figure>\n<p>Texte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texteTexte texte</p>",
-            "image": "https://jours.be/media/posts/8/mike-meyers-1346291-unsplash-xxxl.jpg",
-            "author": {
-                "name": "jours.be"
-            },
-            "tags": [
-                   "Top",
-                   "Signification"
-            ],
-            "date_published": "2025-08-08T09:23:56+02:00",
-            "date_modified": "2025-08-08T09:40:21+02:00"
         }
     ]
 }
